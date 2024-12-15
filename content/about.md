@@ -6,3 +6,4 @@ draft: false
 
 てーすてすてす
 
+<div class="fade-in">この部分がアニメーションします</div>

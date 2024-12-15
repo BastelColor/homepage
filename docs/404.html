@@ -1,51 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
-<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-
-
-<title>404 Page not found</title>
-
-
-
-
-
-
-
-<meta name="referrer" content="no-referrer-when-downgrade" />
-
-<meta name="HandheldFriendly" content="True" />
-<meta name="MobileOptimized" content="320" />
-<meta name="viewport" content="width=device-width, initial-scale=1.0" />
-
-
-
-
-
-
-
-
-
-
-
-<link rel="stylesheet" href="/homepage/css/style.min.723f9f784e5706b31546134f2b00f50122aaff59fb1cc55efc9ca4f10bbf9493.css" type="text/css" integrity="sha256-cj&#43;feE5XBrMVRhNPKwD1ASKq/1n7HMVe/Jyk8Qu/lJM=" />
-
-<meta property="og:url" content="http://BastelColor.github.io/homepage/404.html">
-  <meta property="og:site_name" content="My New Hugo Site">
-  <meta property="og:title" content="404 Page not found">
-  <meta property="og:locale" content="en_us">
-  <meta property="og:type" content="website">
-
-
-  <meta name="twitter:card" content="summary">
-  <meta name="twitter:title" content="404 Page not found">
-
-
-  <meta itemprop="name" content="404 Page not found">
-
-
-</head>
+  <head><script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.2/gsap.min.js"></script></head>
   <body>
   <main class="content page-template 404" role="main">
     <article class="post page">
@@ -61,39 +16,11 @@
       </section>
     </article>
   </main>
-
-
-
-
-<footer class="site-footer">
-  <div class="inner">
-    
-    <section class="links">
-      <ol>
-      
-      </ol>
-    </section>
-    <hr />
-    
-
-    
-      <section class="icons">
-        
-      </section>
-    
-
-    
-
-    
-      <section>
-        <a href="https://themes.gohugo.io/hugo-scroll/" target="_blank" rel="noopener">Hugo Scroll</a> template
-      </section>
-    
-
-    
-  </div>
-</footer>
-
+<script>
+    document.addEventListener('DOMContentLoaded', () => {
+      gsap.from(".fade-in", { opacity: 0, y: 50, duration: 1 });
+    });
+  </script>
 
     
 

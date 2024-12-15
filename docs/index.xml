@@ -9,11 +9,18 @@
     <lastBuildDate>Sun, 15 Dec 2024 12:52:46 +0900</lastBuildDate>
     <atom:link href="http://BastelColor.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Homepage</title>
+      <link>http://BastelColor.github.io/homepage/homepage/homepage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://BastelColor.github.io/homepage/homepage/homepage/</guid>
+      <description>&lt;p&gt;This is just another section to appear on the homepage.&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
+    </item>
+    <item>
       <title>About</title>
       <link>http://BastelColor.github.io/homepage/about/</link>
       <pubDate>Sun, 15 Dec 2024 12:52:46 +0900</pubDate>
       <guid>http://BastelColor.github.io/homepage/about/</guid>
-      <description>&lt;p&gt;てーすてすてす&lt;/p&gt;</description>
+      <description>&lt;p&gt;てーすてすてす&lt;/p&gt;&#xA;&lt;!-- raw HTML omitted --&gt;</description>
     </item>
   </channel>
 </rss>
