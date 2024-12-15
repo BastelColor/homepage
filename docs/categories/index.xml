@@ -2,12 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on My New Hugo Site</title>
-    <link>http://example.org/categories/</link>
+    <link>http://BastelColor.github.io/homepage/categories/</link>
     <description>Recent content in Categories on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2024 </copyright>
-    <atom:link href="http://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
-    
+    <atom:link href="http://BastelColor.github.io/homepage/categories/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

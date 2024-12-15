@@ -2,22 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
+    <link>http://BastelColor.github.io/homepage/</link>
     <description>Recent content on My New Hugo Site</description>
-    <generator>Hugo -- gohugo.io</generator>
+    <generator>Hugo</generator>
     <language>en-us</language>
-    <copyright>© 2024 </copyright>
-    <lastBuildDate>Sun, 15 Dec 2024 12:52:46 +0900</lastBuildDate><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Sun, 15 Dec 2024 12:52:46 +0900</lastBuildDate>
+    <atom:link href="http://BastelColor.github.io/homepage/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>About</title>
-      <link>http://example.org/about/</link>
+      <link>http://BastelColor.github.io/homepage/about/</link>
       <pubDate>Sun, 15 Dec 2024 12:52:46 +0900</pubDate>
-      
-      <guid>http://example.org/about/</guid>
+      <guid>http://BastelColor.github.io/homepage/about/</guid>
       <description>&lt;p&gt;てーすてすてす&lt;/p&gt;</description>
-      
     </item>
-    
   </channel>
 </rss>

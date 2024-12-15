@@ -1,5 +1,5 @@
-baseURL = "http://example.org/"
+baseURL = "http://BastelColor.github.io/homepage/"
 languageCode = "en-us"
 title = "My New Hugo Site"
-theme = "blowfish"
+theme = "hugo-scroll"
 publishDir = "docs"
