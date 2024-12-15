@@ -1,6 +1,0 @@
-baseURL = "http://BastelColor.github.io/homepage/"
-languageCode = "ja-jp"
-title = "テスト"
-theme = "hugo-scroll"
-publishDir = "docs"
-
