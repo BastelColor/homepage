@@ -1,7 +1,7 @@
 ---
-title: "test"
-summary: "さまり"
-date: 2024
+title: "テスト記事"
+summary: "説明文でござんす"
+date: 2024-12-11
 coverCaption: "かわいいです"
 keywords: "謎"
 showTableOfContents: true

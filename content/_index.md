@@ -1,3 +1,6 @@
 Blender / AfterEffects
-
-<!-- {{< video autoplay="true" loop="true" src="back" >}} -->
+<div class="video-background">
+    <video autoplay loop muted playsinline>
+        <source src="back.mp4" type="video/mp4">
+    </video>
+</div>

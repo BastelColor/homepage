@@ -26,6 +26,21 @@
   weight = 30
 
 [[main]]
+  identifier = "search"
+  weight = 99
+  [main.params]
+    action = "search"
+
+[[main]]
+  identifier = "locale"
+  weight = 100
+  [main.params]
+    action = "locale"
+
+# -- Footer Menu --
+# The footer menu is displayed at the bottom of the page, just before
+# the copyright notice. Configure as per the main menu above.
+[[main]]
   name = "twitter"
   url = "https://twitter.com/bastelcolor"
   weight = 40
@@ -51,19 +66,3 @@
     icon = "misskey"
     showName = false
     target = "_blank"
-
-[[main]]
-  identifier = "search"
-  weight = 99
-  [main.params]
-    action = "search"
-
-[[main]]
-  identifier = "locale"
-  weight = 100
-  [main.params]
-    action = "locale"
-
-# -- Footer Menu --
-# The footer menu is displayed at the bottom of the page, just before
-# the copyright notice. Configure as per the main menu above.
