@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>唯繕 :// Yuizen</title>
+    <link>http://localhost:1313/homepage/posts/</link>
+    <description>Recent content on 唯繕 :// Yuizen</description>
+    <generator>Hugo</generator>
+    <language>jp</language>
+    <copyright>© Bastelcolor</copyright>
+    <lastBuildDate>Thu, 01 Jan 1970 09:33:44 +0900</lastBuildDate>
+    <atom:link href="http://localhost:1313/homepage/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>test</title>
+      <link>http://localhost:1313/homepage/posts/test-post/</link>
+      <pubDate>Thu, 01 Jan 1970 09:33:44 +0900</pubDate>
+      <guid>http://localhost:1313/homepage/posts/test-post/</guid>
+      <description>さまり</description>
+    </item>
+  </channel>
+</rss>

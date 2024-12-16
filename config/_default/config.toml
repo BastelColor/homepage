@@ -2,7 +2,7 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
-# baseURL = "https://your_domain.com/"
+# baseURL = "https://bastelcolor.github.io/homepage"
 defaultContentLanguage = "jp"
 
 enableRobotsTXT = true
@@ -13,3 +13,6 @@ summaryLength = 0
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]
+
+[params.assets]
+customCSS = ["css/custom.css"]

@@ -7,7 +7,7 @@ title = "唯繕 :// Yuizen"
 copyright = "© Bastelcolor"
 
 [params]
-  dateFormat = "2 January 2006"
+  dateFormat = "2006 January 2"
 
   # mainSections = ["section1", "section2"]
   description = "Portfolio of BastelColor"
@@ -18,6 +18,6 @@ copyright = "© Bastelcolor"
   headline = "クリエイター"
   bio = "特に無し"
   links = [
-   { email = "bastelcolor atto outlook dot com" },
+   { misskey = "bastelcolor atto outlook dot com" },
    { twitter = "https://twitter.com/bastelcolor"}
   ]

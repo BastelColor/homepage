@@ -2,3 +2,4 @@ baseURL = 'https://bastelcolor.github.io/homepage/'
 languageCode = 'ja-jp'
 title = 'Yuizen'
 publishDir = "docs"
+theme = ["hugo-video"]
