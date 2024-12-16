@@ -8,16 +8,16 @@
   
     
       <url>
-            <loc>https://example.org/en/</loc>
+            <loc>http://localhost:1313/homepage/en/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="jp"
-              href="https://example.org/"
+              href="http://localhost:1313/homepage/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://example.org/en/"
+              href="http://localhost:1313/homepage/en/"
               />
           </url>
     

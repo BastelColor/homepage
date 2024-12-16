@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
-languageCode = 'en-us'
-title = 'My New Hugo Site'
+baseURL = 'https://bastelcolor.github.io/homepage/'
+languageCode = 'ja-jp'
+title = 'Yuizen'
 publishDir = "docs"

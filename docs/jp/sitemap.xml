@@ -4,23 +4,23 @@
   
     
       <url>
-            <loc>https://example.org/</loc>
+            <loc>http://localhost:1313/homepage/</loc>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="https://example.org/en/"
+              href="http://localhost:1313/homepage/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="jp"
-              href="https://example.org/"
+              href="http://localhost:1313/homepage/"
               />
           </url>
     
   
     
       <url>
-            <loc>https://example.org/about/</loc>
+            <loc>http://localhost:1313/homepage/about/</loc>
           </url>
     
   
