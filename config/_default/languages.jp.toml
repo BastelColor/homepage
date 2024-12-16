@@ -1,0 +1,23 @@
+languageCode = "jp"
+languageName = "日本語"
+languageDirection = "ltr"
+weight = 1
+
+title = "唯繕 :// Yuizen"
+copyright = "© Bastelcolor"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  # mainSections = ["section1", "section2"]
+  description = "Portfolio of BastelColor"
+
+[params.author]
+  name = "BastelColor"
+  image = "img/author.png"
+  headline = "クリエイター"
+  bio = "特に無し"
+  links = [
+   { email = "bastelcolor atto outlook dot com" },
+   { twitter = "https://twitter.com/bastelcolor"}
+  ]
