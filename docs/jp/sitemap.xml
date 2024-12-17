@@ -23,6 +23,16 @@
       <url>
             <loc>https://bastelcolor.github.io/homepage/posts/</loc>
             <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://bastelcolor.github.io/homepage/en/posts/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://bastelcolor.github.io/homepage/posts/"
+              />
           </url>
     
   
@@ -30,18 +40,48 @@
       <url>
             <loc>https://bastelcolor.github.io/homepage/posts/test-post/</loc>
             <lastmod>2024-12-11T00:00:00+00:00</lastmod>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://bastelcolor.github.io/homepage/en/posts/test-post/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://bastelcolor.github.io/homepage/posts/test-post/"
+              />
           </url>
     
   
     
       <url>
             <loc>https://bastelcolor.github.io/homepage/about/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://bastelcolor.github.io/homepage/en/about/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://bastelcolor.github.io/homepage/about/"
+              />
           </url>
     
   
     
       <url>
             <loc>https://bastelcolor.github.io/homepage/works/</loc>
+            <xhtml:link
+              rel="alternate"
+              hreflang="en"
+              href="https://bastelcolor.github.io/homepage/en/works/"
+              />
+            <xhtml:link
+              rel="alternate"
+              hreflang="jp"
+              href="https://bastelcolor.github.io/homepage/works/"
+              />
           </url>
     
   

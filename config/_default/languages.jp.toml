@@ -7,7 +7,7 @@ title = "唯繕 :// Yuizen"
 copyright = "© Bastelcolor"
 
 [params]
-  dateFormat = "2006 January 2"
+  dateFormat = "2006 Jan 2"
 
   # mainSections = ["section1", "section2"]
   description = "Portfolio of BastelColor"
