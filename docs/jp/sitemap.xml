@@ -4,44 +4,44 @@
   
     
       <url>
-            <loc>http://localhost:1313/homepage/</loc>
+            <loc>https://bastelcolor.github.io/homepage/</loc>
             <lastmod>2024-12-11T00:00:00+00:00</lastmod>
             <xhtml:link
               rel="alternate"
               hreflang="en"
-              href="http://localhost:1313/homepage/en/"
+              href="https://bastelcolor.github.io/homepage/en/"
               />
             <xhtml:link
               rel="alternate"
               hreflang="jp"
-              href="http://localhost:1313/homepage/"
+              href="https://bastelcolor.github.io/homepage/"
               />
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/homepage/posts/</loc>
+            <loc>https://bastelcolor.github.io/homepage/posts/</loc>
             <lastmod>2024-12-11T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/homepage/posts/test-post/</loc>
+            <loc>https://bastelcolor.github.io/homepage/posts/test-post/</loc>
             <lastmod>2024-12-11T00:00:00+00:00</lastmod>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/homepage/about/</loc>
+            <loc>https://bastelcolor.github.io/homepage/about/</loc>
           </url>
     
   
     
       <url>
-            <loc>http://localhost:1313/homepage/works/</loc>
+            <loc>https://bastelcolor.github.io/homepage/works/</loc>
           </url>
     
   

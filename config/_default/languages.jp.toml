@@ -18,6 +18,7 @@ copyright = "© Bastelcolor"
   headline = "クリエイター"
   bio = "特に無し"
   links = [
-   { misskey = "bastelcolor atto outlook dot com" },
-   { twitter = "https://twitter.com/bastelcolor"}
+   { twitter = "https://twitter.com/bastelcolor"},
+   { youtube = "https://www.youtube.com/@bastelcolor"},
+   { misskey = "https://misskey.io/@BastelColor" }
   ]
