@@ -16,12 +16,5 @@
       <guid>https://bastelcolor.github.io/homepage/posts/20241217-hugo/</guid>
       <description>このサイトの作り方など</description>
     </item>
-    <item>
-      <title>テスト記事</title>
-      <link>https://bastelcolor.github.io/homepage/posts/test-post/</link>
-      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://bastelcolor.github.io/homepage/posts/test-post/</guid>
-      <description>説明文でござんす</description>
-    </item>
   </channel>
 </rss>
