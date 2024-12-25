@@ -15,7 +15,7 @@ copyright = "© Bastelcolor"
 [params.author]
   name = "BastelColor"
   image = "img/author.png"
-  headline = "クリエイター"
+  headline = "CGクリエイター"
   bio = "特に無し"
   links = [
    { twitter = "https://twitter.com/bastelcolor"},
