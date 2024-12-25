@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>唯繕 :// Yuizen</title>
-    <link>https://bastelcolor.github.io/homepage/posts/</link>
+    <link>http://localhost:1313/homepage/posts/</link>
     <description>Recent content on 唯繕 :// Yuizen</description>
     <generator>Hugo</generator>
     <language>jp</language>
     <copyright>© Bastelcolor</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://bastelcolor.github.io/homepage/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/homepage/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugoめちゃ便利</title>
+      <link>http://localhost:1313/homepage/posts/20241217-hugo/</link>
+      <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/homepage/posts/20241217-hugo/</guid>
+      <description>このサイトの作り方など</description>
+    </item>
     <item>
       <title>テスト記事</title>
-      <link>https://bastelcolor.github.io/homepage/posts/test-post/</link>
+      <link>http://localhost:1313/homepage/posts/test-post/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://bastelcolor.github.io/homepage/posts/test-post/</guid>
+      <guid>http://localhost:1313/homepage/posts/test-post/</guid>
       <description>説明文でござんす</description>
     </item>
   </channel>
