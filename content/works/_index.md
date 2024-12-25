@@ -21,6 +21,10 @@ showtitle: false
 
 <br/>
 
+最後のキャラクターについては制作動画を上げています。
+
+<iframe width="800" height="450" src="https://www.youtube.com/embed/9sOZa-tF8DI?si=VcQxRgG3uPFvqJz5" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 また、キャラクターモデリングに関して技術同人誌の執筆も行いました。
 
 [絵が描けなくてもキャラモデリング(2023)](https://bastelcolor.booth.pm/items/5354527)
@@ -57,10 +61,11 @@ Unityのlightingに慣れるため始めたVRChat用アパートの制作です�
 
 Youtubeにもいくつか動画を出しているのでご紹介。
 
-{{< youtube "https://youtu.be/y625Kqr7nVw" >}}
+<iframe width="800" height="450" src="https://www.youtube.com/embed/y625Kqr7nVw?si=anNhRKyJHTciFyfn" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 <div style="text-align: center;">2D絵を中心とした動画制作に関する解説動画</div>
 
 <br/>
 
-{{< youtube "https://youtu.be/RBBKrzDWvJ0" >}}
+<iframe width="800" height="450" src="https://www.youtube.com/embed/RBBKrzDWvJ0?si=HkIEg-S6VpIb5nPo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <div style="text-align: center;">ZETA DIVISIONのMasters Reykjavik(2022)まとめ動画、大会当時世界3位</div>
