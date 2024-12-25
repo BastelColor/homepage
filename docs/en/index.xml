@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Yuizen</title>
-    <link>http://localhost:1313/homepage/en/</link>
+    <link>https://bastelcolor.github.io/homepage/en/</link>
     <description>Recent content on Yuizen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <copyright>© Bastelcolor</copyright>
     <lastBuildDate>Wed, 11 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/homepage/en/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://bastelcolor.github.io/homepage/en/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hugo - very useful</title>
-      <link>http://localhost:1313/homepage/en/posts/20241217-hugo/</link>
+      <link>https://bastelcolor.github.io/homepage/en/posts/20241217-hugo/</link>
       <pubDate>Wed, 11 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/homepage/en/posts/20241217-hugo/</guid>
+      <guid>https://bastelcolor.github.io/homepage/en/posts/20241217-hugo/</guid>
       <description>About creation of this pages</description>
     </item>
   </channel>
