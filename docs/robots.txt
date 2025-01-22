@@ -1,3 +1,0 @@
-User-agent: *
-Allow: /
-Sitemap: https://bastelcolor.github.io/homepage/sitemap.xml
