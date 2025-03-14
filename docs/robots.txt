@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: http://localhost:1313/homepage/sitemap.xml
+Sitemap: https://bastelcolor.github.io/homepage/sitemap.xml
